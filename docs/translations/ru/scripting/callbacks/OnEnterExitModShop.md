@@ -37,7 +37,7 @@ public OnEnterExitModShop(playerid, enterexit, interiorid)
 }
 ```
 
-## Заметки
+## Примечание
 
 :::warning
 
