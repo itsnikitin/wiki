@@ -19,7 +19,7 @@ public OnGameModeExit()
 }
 ```
 
-## Заметки
+## Примечание
 
 :::tip
 
