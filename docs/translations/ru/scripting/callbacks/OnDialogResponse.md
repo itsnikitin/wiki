@@ -141,7 +141,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 }
 ```
 
-## Заметки
+## Примечание
 
 :::tip
 
