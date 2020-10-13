@@ -34,7 +34,7 @@ public OnActorStreamIn(actorid, forplayerid)
 }
 ```
 
-## Заметки
+## Примечание
 
 :::tip
 
