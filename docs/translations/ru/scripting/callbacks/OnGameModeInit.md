@@ -19,7 +19,7 @@ public OnGameModeInit()
 }
 ```
 
-## Заметки
+## Примечание
 
 :::tip
 
