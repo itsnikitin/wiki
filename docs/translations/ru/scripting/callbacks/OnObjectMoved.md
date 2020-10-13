@@ -27,7 +27,7 @@ public OnObjectMoved(objectid)
 }
 ```
 
-## Заметки
+## Примечание
 
 :::tip
 
