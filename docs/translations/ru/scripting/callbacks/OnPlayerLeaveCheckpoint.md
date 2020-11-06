@@ -33,7 +33,7 @@ import T from '../../../src/components/templates.js'
 
 <T.TipNPCCallbacks />
 
-## Связаныне функции
+## Связанные функции
 
 - [SetPlayerCheckpoint](../functions/SetPlayerCheckpoint.md): Создать контрольную точку для игрока.
 - [DisablePlayerCheckpoint](../functions/DisablePlayerCheckpoint.md): Убрать контрольную точку для игрока.
